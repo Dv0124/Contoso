@@ -1,0 +1,22 @@
+{
+  "name": "contoso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dv0124/Contoso.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dv0124/Contoso/issues"
+  },
+  "homepage": "https://github.com/Dv0124/Contoso#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
